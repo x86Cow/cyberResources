@@ -13,3 +13,9 @@
 # Cyber Team Resources
 * Linux
   * [Over The Wire](https://overthewire.org/wargames "Over The Wire")
+* Vim
+  * [Primeagen Vim Tutorial](https://www.youtube.com/watch?v=H3o4l4GVLW0 "Primagen Vim Tutorial Series")
+  * [Luke Smith Vim Tutorial](https://www.youtube.com/watch?v=d8XtNXutVto&t "Luke Smith VimTutor Walkthrough")
+  * [OpenVim Tutorial](https://www.openvim.com/ "OpenVim")
+  * [Vim Adventures](https://vim-adventures.com/ "Vim Adventures")
+
