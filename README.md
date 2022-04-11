@@ -1,5 +1,5 @@
 # Guided Curriculum
-+ Linux
- + Basic Commands
+* Linux
+  * Basic Commands
 
 # Cyber Team Resources
