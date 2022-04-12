@@ -9,13 +9,23 @@
   * Use of linux is very different than windows, Linux used properly can be the most powerful operating system you will ever use. Understanding the terminal will be the fastest and easiest way to do things on Linux.
   * Bash is the default command shell and is what we will be focusing on during his course.
 
-## Living in the terminal
+## Living In The Terminal
 * Editing text with vi type editors and nano
   * VI type editors are very effective because the mouse is not needed, it is controlled all with keystrokes.
   * VI is a modal editor, it uses three modes: Normal, Insert and Visual. These modes allow you too have triple the amount of keybinds each mode for a different type of action you need to do.
 
   * File management
     * Ranger is the CLI file manger that I go to by default. It uses VI keybindings is very reliable to do anything you need to do. By default it takes some configuration but once it's how you like it, it works really well.
+
+## Bash Scripting
+* In Bash and all other linux shells you can easily create scripts to automate whatever is needed.
+* Scripting is just using different command line tools in order to make what you want.
+* Pipe
+  * The pipe is a very quck and easy way to send the output of a command to the input of the next
+* Cron
+  * Cron is a time based method of running scripts. Say every day at midnight you want to check for updates, cron is how you do so (I do this by the way).
+
+## Python Scripting
 
 # Cyber Team Resources
 * Linux
