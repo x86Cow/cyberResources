@@ -30,6 +30,9 @@
 ## Web Exploitation
 * Password Cracking
 * File Upload
+* SQL Injection
+* Command Injection
+* Cross Site Scripting (XSS)
 
 # Cyber Team Resources
 * Linux
