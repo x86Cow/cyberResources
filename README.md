@@ -39,4 +39,7 @@
   * [Luke Smith Vim Tutorial](https://www.youtube.com/watch?v=d8XtNXutVto&t "Luke Smith VimTutor Walkthrough")
   * [OpenVim Tutorial](https://www.openvim.com/ "OpenVim")
   * [Vim Adventures](https://vim-adventures.com/ "Vim Adventures")
+* Web Exploitation
+  * [Damn Vulnerable Web Application](https://dvwa.co.uk "DVWA")
+  * [Web Exploitation CTF101](https://ctf101.org/web-exploitation/overview "CTF101")
 
