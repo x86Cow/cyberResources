@@ -1,4 +1,6 @@
-# Guided Curriculum
+# Cyber Course
+
+## Guided Curriculum
 
 ## Linux
 
@@ -20,7 +22,7 @@
   * File management
     * Ranger is the CLI file manger that I go to by default. It uses VI keybindings is very reliable to do anything you need to do. By default it takes some configuration but once it's how you like it, it works really well.
 
-## Bash Scripting
+### Bash Scripting
 
 * In Bash and all other Linux shells you can easily create scripts to automate whatever is needed.
 * Scripting is just using different command line tools in order to make what you want.
@@ -29,9 +31,9 @@
 * Cron
   * Cron is a time based method of running scripts. Say every day at midnight you want to check for updates, cron is how you do so (I do this by the way).
 
-## Python Scripting
+### Python Scripting
 
-## Web Exploitation
+### Web Exploitation
 
 * Password Cracking
 * File Upload
@@ -39,7 +41,7 @@
 * Command Injection
 * Cross Site Scripting (XSS)
 
-# Cyber Team Resources
+## Cyber Team Resources
 
 * Linux
   * [Over The Wire](https://overthewire.org/wargames "Over The Wire (Bandit)")
