@@ -13,6 +13,14 @@
   * Use of Linux is very different than windows, Linux used properly can be the most powerful operating system you will ever use. Understanding the terminal will be the fastest and easiest way to do things on Linux.
   * Bash is the default command shell and is what we will be focusing on during his course.
 
+## Explaining Linux
+
+* Linux by it's self is not a full operating system. Individuals and groups of people create operating systems.
+* Operating systems powered by the Linux kernal is extremely decentralized.
+  * In general Linux is broken down into a hierachy of operating systems, the two main parent distrubitons: Arch-based and Debian-based.
+    * These two main distrobutions use two different package managers. Aptitude (APT) and Pacman.
+    * Unlike Windows Downloading programs is not built in to the operating system. Due to this Linux has external package managers. Package managers install programs, delete program and keep up with dependecy changes.
+
 ## Living In The Terminal
 
 * Editing text with vi type editors and nano
