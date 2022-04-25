@@ -74,7 +74,10 @@
   * [Unix Toolbox](http://devdoc.net/linux/UnixToolbox.html "Unix Toolbox")
 * Bash
   * [Over The Wire](https://overthewire.org/wargames "Over The Wire (Bandit)")
+  * [Shell Tools and Scripting](https://missing.csail.mit.edu/2020/shell-tools/ "Shell Tools and Scripting - from MITs 'The Missing Semester of Your CS Education'") - video lecture: [YouTube](https://www.youtube.com/watch?v=kgII-YWo3Zw "Shell Tools and Scripting")
+  * [Command-line Environment](https://missing.csail.mit.edu/2020/command-line/ "Command-line Environment - from MITs 'The Missing Semester of Your CS Education'") - video lecture: [YouTube](https://www.youtube.com/watch?v=e8BO_dYxk5c "Command-line Environment")
 * Vim
+  * [Editors: (vim)](https://missing.csail.mit.edu/2020/editors/ "Editors: (vim) - from MITs 'The Missing Semester of Your CS Education'") - video lecture: [YouTube](https://www.youtube.com/watch?v=a6Q8Na575qc "Editors: (vim)")
   * [Primeagen Vim Tutorial](https://www.youtube.com/watch?v=H3o4l4GVLW0 "Primagen Vim Tutorial Series")
   * [Luke Smith Vim Tutorial](https://www.youtube.com/watch?v=d8XtNXutVto&t "Luke Smith VimTutor Walkthrough")
   * [OpenVim Tutorial](https://www.openvim.com/ "OpenVim")
