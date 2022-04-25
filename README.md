@@ -51,6 +51,8 @@
 ### Web Exploitation
 
 * Password Cracking
+  * [Vulnerabilities in Password-based Login](https://portswigger.net/web-security/authentication/password-based "Vulnerabilities in Password-based Login - Portswigger")
+  * [Hash Crack: Password Cracking Manual (v3) by Joshua Picolet](https://www.amazon.com/Hash-Crack-Password-Cracking-Manual/dp/1793458618/ "Hash Crack (v3) - Joshua Picolet")
 * File Upload
 * SQL Injection
 * Command Injection
