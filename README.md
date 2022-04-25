@@ -61,7 +61,10 @@
 ## Cyber Team Resources
 
 * Linux
+  * [The Essentials: Linux Basics](https://bitvijays.github.io/LFF-ESS-P0B-LinuxEssentials.html "Linux Basics: Essentials")
+  * [Linux Journey](https://linuxjourney.com/ "Linux Journey")
   * [Unix Toolbox](http://devdoc.net/linux/UnixToolbox.html "Unix Toolbox")
+* Bash
   * [Over The Wire](https://overthewire.org/wargames "Over The Wire (Bandit)")
 * Vim
   * [Primeagen Vim Tutorial](https://www.youtube.com/watch?v=H3o4l4GVLW0 "Primagen Vim Tutorial Series")
