@@ -41,12 +41,15 @@
 
 ### Python Scripting
 
-* [Think Python: How to Think Like a Computer Scientist](https://greenteapress.com/thinkpython2/html/index.html "Think Python: How to Think Like a Computer Scientist")
-* [Automate the Boring Stuff with Python: Practical Programming for Total Beginners](https://automatetheboringstuff.com/ "Automate the Boring Stuff with Python")
-* [Practice Python](https://www.practicepython.org/ "Practice Python")
-* [Violent Python (note that this book was written in Python 2 rather than Python 3 -- below this link is a Github repository with the book's code/examples updated to Python 3! Use it in conjunction with the book.)](https://github.com/tanc7/hacking-books/blob/master/Violent%20Python%20-%20A%20Cookbook%20for%20Hackers%2C%20Forensic%20Analysts%2C%20Penetration%20Testers%20and%20Security%20Engineers.pdf "Violent Python")
-* [Violent Python - Python 3 code](https://github.com/EONRaider/violent-python3 "Violent Python - Python 3 code")
-* [Black Hat Python (Second Edition)](https://github.com/bhavyagoel/BlackArch/blob/main/Black%20Hat%20Python%2C%202nd%20Edition%20by%20Justin%20Seitz%20%20Tim%20Arnold%20%5BJustin%20Seitz%5D.pdf "Black Hat Python (Second Edition)")
+* [Syllabus for Learning Python - Reddit](https://old.reddit.com/r/learnprogramming/comments/i9vuhr/i_wrote_a_syllabus_for_learning_python_and_django/ "Syllabus for Learning Python - Reddit")
+* ['I know Python basics, but what's next?' - Reddit](https://old.reddit.com/r/learnprogramming/comments/pndaba/i_know_python_basics_what_next/ "'I know Python basics, but whats next?' - Reddit")
+* Resources:
+  * [Think Python: How to Think Like a Computer Scientist](https://greenteapress.com/thinkpython2/html/index.html "Think Python: How to Think Like a Computer Scientist")
+  * [Automate the Boring Stuff with Python: Practical Programming for Total Beginners](https://automatetheboringstuff.com/ "Automate the Boring Stuff with Python")
+  * [Practice Python](https://www.practicepython.org/ "Practice Python")
+  * [Violent Python](https://github.com/tanc7/hacking-books/blob/master/Violent%20Python%20-%20A%20Cookbook%20for%20Hackers%2C%20Forensic%20Analysts%2C%20Penetration%20Testers%20and%20Security%20Engineers.pdf "Violent Python") (note that this book was written in Python 2 rather than Python 3 -- below this link is a Github repository with the book's code/examples updated to Python 3! Use it in conjunction with the book.)
+  * [Violent Python - Python 3 code](https://github.com/EONRaider/violent-python3 "Violent Python - Python 3 code")
+  * [Black Hat Python (Second Edition)](https://github.com/bhavyagoel/BlackArch/blob/main/Black%20Hat%20Python%2C%202nd%20Edition%20by%20Justin%20Seitz%20%20Tim%20Arnold%20%5BJustin%20Seitz%5D.pdf "Black Hat Python (Second Edition)")
 
 ### Web Exploitation
 
