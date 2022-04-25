@@ -64,7 +64,7 @@
 * Command Injection
   * [Command Injection vulnerabilities](https://portswigger.net/web-security/os-command-injection "Command Injection vulnerabilities")
 * Cross Site Scripting (XSS)
-  * [Cross Site Scripting (XSS) vulnerabilities](https://portswigger.net/web-security/cross-site-scripting "XSS Vulnerabilities)
+  * [Cross Site Scripting (XSS) vulnerabilities](https://portswigger.net/web-security/cross-site-scripting "XSS Vulnerabilities")
 
 ## Cyber Team Resources
 
