@@ -57,9 +57,14 @@
   * [Vulnerabilities in Password-based Login](https://portswigger.net/web-security/authentication/password-based "Vulnerabilities in Password-based Login - Portswigger")
   * [Hash Crack: Password Cracking Manual (v3) by Joshua Picolet](https://www.amazon.com/Hash-Crack-Password-Cracking-Manual/dp/1793458618/ "Hash Crack (v3) - Joshua Picolet")
 * File Upload
+  * [File Upload vulnerabilities](https://portswigger.net/web-security/file-upload "File Upload Vulnerabilities")
 * SQL Injection
+  * [SQL Injection vulnerabilities](https://portswigger.net/web-security/sql-injection "SQL Injection")
+  * [SQLi Cheat Sheet](https://portswigger.net/web-security/sql-injection/cheat-sheet "SQli Cheat Sheet")
 * Command Injection
+  * [Command Injection vulnerabilities](https://portswigger.net/web-security/os-command-injection "Command Injection vulnerabilities")
 * Cross Site Scripting (XSS)
+  * [Cross Site Scripting (XSS) vulnerabilities](https://portswigger.net/web-security/cross-site-scripting "XSS Vulnerabilities)
 
 ## Cyber Team Resources
 
